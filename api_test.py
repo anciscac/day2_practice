@@ -1,6 +1,6 @@
 import requests
 #1.配置我的APi KEY
-api_key = "sk-5143380f900940089a189b5fa19b0a1a"
+api_key = "
 #2.配置请求的URL和请求头
 url = "https://api.deepseek.com/chat/completions"
 headers = {
